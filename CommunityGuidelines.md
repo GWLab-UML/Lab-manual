@@ -33,3 +33,14 @@ All raw sequence data should be uploaded to NCBI SRA. Other data types should be
 
 All materials (scripts, lab notebooks, etc) created in the lab are the property of the lab.
 
+**Github**:
+- All repositories need to have a readme file that outlines the uses of different scripts or notebooks and the order in which they should be read. When paper is published, readme should also indicate which analyses went into the final paper, wehre raw data is located and where paper is located. 
+- When possible upload data to the same folder. 
+- Subfolders within repo:
+	- Data (when possible)
+	- Sequence processing
+	- Data analysis
+- Commit messages:
+	- Active voice and present tense
+	- explain change behavior
+- Commit everytime you make a significant change, push at the end of every coding session. 
