@@ -47,15 +47,17 @@ Approximate Timeline (subject to change!)
 |             |                               |              |                        |
 
 
-Before graduation
-- first chapter needs to be submitted to a journal (ideally published)
-- Second chapter needs to be ready to submit (ideally submitted)
-- Third chapter needs to be written (does not have to be final form)
+Requirements for graduation:
+- First chapter submitted to a journal (ideally published)
+- Second chapter ready to submit (ideally submitted)
+- Third chapter written (does not have to be final form)
 
 
-Proposal defense:
-- open to members of the department (some grad students and faculty come), Committee members must attend
+Proposal defense expectations:
+- open to members of the department, committee members must attend
 - 10 minute intro
 - description of 3 aims
 - about 10 min per aim, mix of existing results and future plans, should have chunks of aims 1 and 2 done, possibly parts of aim 3. 
 - project timeline
+
+Thesis defense expectations:
