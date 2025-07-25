@@ -1,3 +1,5 @@
+Membership in the lab is contingent on following the below community guidelines. Violations of these guidelines may result in dismissal from the lab.
+
 **Harrassment and discrimination**
 Harassment and discrimination will not be tolerated in our lab. Every lab member must abide by the Umass Lowell policies on harassment and discrimination, found here: https://www.umassp.edu/sites/default/files/guidelines/HR-Internal-07%20Non-Discrimination%20and%20Harassment%20Complaint%20Procedures%20and%20Guidelines.pdf with more resources here: https://www.uml.edu/hr/equal/guidelines-procedures/#university-of-massachusetts-lowell-nondiscrimination-guidelines. Please read these policies now.
 
@@ -5,8 +7,14 @@ Sarah is committed to ensuring the lab is a safe, friendly and accepting environ
 
 If you feel you are being harassed or discriminated against, or notice someone else being harassed, please alert Sarah immediately. If Sarah is the cause of your concern, please reach out to the Biology department chair (Pete Gaines), Teresa Lee, or another trusted faculty member. Allegations of harassment will be handled swiftly and if confirmed will result in expulsion from the lab. 
 
-
 **Research ethics**
+**Use of generative AI/large language models:** LLMs are a rapidly evolving tool that can be helpful but can also disrupt the learning process and lead to serious ethical and legal violations. 
+- AI for coding is acceptable, however the output of the LLM must always be verified and tested, and use of an LLM must be acknowledged in the code comments. You must be able to explain and stand behind any code you put out into the world. 
+- **Never** upload data into an LLM/online AI tool. The data is owned by the lab and doing so violates our intellectual property rights. 
+- **Never** upload an unpublished manuscript or grant proposal into an LLM/online AI tool. 
+- AI for any sort of scientific writing is not acceptable. The act of writing is the act of thinking, using AI to write is bypassing thinking. 
+- AI tools such as grammarly to help with wording/grammar is only acceptable in certain situations and after conversations with and approval from Sarah.
+
 **Animal and specimen treatment:** While we do not work on vertebrates and are not governed by IACUC, we have an ethical obligation to be respectful of the lives of the animals we work with. This means minimizing their suffering by processing samples quickly, either humanely sacrificing or returning unused animals to optimal conditions, not collecting more animals than we can process, and ensuring that samples collected can be used. Keeping track of data and samples is not only good scientific practice, it also shows respect to the animals that were sacrificed. 
 
 **Fabrication and falsification of data:** Fabrication, falsification, and plagiarism are not tolerated.  If you are feeling like your work doesn’t measure up to others around you or you need to publish more, publish faster, or publish in higher impact journals, reach out and talk to Sarah. These feelings are normal, and something everyone experiences at various stages in their career, but it is NEVER an excuse to cheat. Allegations of misconduct will be handled swiftly and if confirmed will result in expulsion from the lab.
@@ -16,8 +24,6 @@ If you feel you are being harassed or discriminated against, or notice someone e
 **Minimizing parachute science:** We are a lab group based in a country that has a continuing imperial and colonial history that often does work in locations that continue to experience the effects of colonialism. We work to minimize parachute science by engaging with the people that live in these locations and involving them in our research. This also applies to research within the US. This can look like a lot of different things including: collaborating with local scientists, engaging with non-profits and community groups, giving public presentations, doing informal science education, and training local communities. While we can get blinded by our science, it is important to remember that we should never work somewhere that we are not wanted. 
 
 **Sustainability as a core value:** We acknowledge that the only way to stop climate change is to stop burning fossil fuels and that many efforts focused on carbon footprint or individual responsibility simply deflect blame from the corporations that are at fault. However, being mindful of our use and disposal of materials as a group can help us to understand changes we need to push for and help us to live according to our values. To that end, it is important that we keep track of lab supplies in the inventory, resulting in fewer expired products and more mindful ordering, when possible choose reusable over disposable and recyclable/durable materials (Glass, metal) over plastic (a petroleum product). In addition, when possible reuse or repurpose materials and break it down into its component parts. Organization and documentation help us to minimize waste while resisting hoarding. In addition, we choose to travel with purpose and limit unnecessary trips that require flying especially for short durations. When possible, we choose to take the train, bus, or drive in a carpool. 
-
-**Use of large language models:** LLMs are a tool that should only be used to supplement human effort. The output of an LLM whether it is text or code must always be verified, tested, and edited. When LLMs are used, we must acknowledge their use. 
 
 **Data management and reproducibility**
 **Samples**: Keep track of all samples in a csv that includes information on the storage method, storage location, and when the sample has been used completely. Upload csv to appropriate lab GitHub. 
