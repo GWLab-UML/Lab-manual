@@ -23,7 +23,7 @@
 - Lead lab meetings as appropriate with position and other demands
 - Help labmates when they need it whether it is a hands-on project or providing constructive feedback on an idea or draft (even if you are not on the project). They will do the same for you. Science is a collaborative endeavor, not a competition!
 - New students should consult with more experienced lab mates for advice and help with navigating their way through school/career as well as on lab policies. Senior students and postdocs should mentor newer students. 
-- Be respectful of labmates' time. Before asking questions or bringing forward a problem, make sure you have tried at least three different was to research the topic. This way we can use our time together to discuss various ideas or options. 
+- Be respectful of labmates' time. Before asking questions or bringing forward a problem, make sure you have tried at least three different ways to research the topic. This way we can use our time together to discuss various ideas or options. 
 - Give constructive criticism respectfully. Always try to help someone make their product better, never attack them personally.  
 - Show up to your meetings, you do not need to be in at 9 am every day- just show up for your commitments, and work the hours you need to work to get your assigned work done. 
 - Communicate sick days to anyone that you have scheduled meetings with. 
