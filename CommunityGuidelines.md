@@ -35,7 +35,7 @@ If you feel you are being harassed or discriminated against, or notice someone e
 **Data:**  Data deposition and open access after publication are the norm in this lab. Digital copies or archival access of all data with proper written descriptions (metadata) is required. I will not share your unpublished data without your explicit permission. All data should be backed up to an external hard drive and to GitHub if they are of a reasonable size. All raw sequence data should be uploaded to NCBI SRA. Other data types should be uploaded to the appropriate repositories. All materials (scripts, lab notebooks, etc) created in the lab are the property of the lab.
 
 **Github**:
-- All repositories need to have a readme file that outlines the uses of different scripts or notebooks and the order in which they should be read. When paper is published, readme should also indicate which analyses went into the final paper, wehre raw data is located and where paper is located. 
+- All repositories need to have a readme file that outlines the uses of different scripts or notebooks and the order in which they should be read. When paper is published, readme should also indicate which analyses went into the final paper, where raw data is located and where paper is located. 
 - When possible upload data to the same folder. 
 - Subfolders within repo:
 	- Data (when possible)
