@@ -32,7 +32,7 @@
 - Report broken equipment promptly. Things break, we can get it fixed if we know about it. 
 - Add any vacations (>1 day) to lab google calendar at least a month in advance, so people know not to bother you. 
 - Add any long stretches of remote work to calendar
-- Add supplies/equipment that need to be ordered to the google doc, don't wait until you use the last box of something. 
+- Add supplies/equipment that need to be ordered to the google sheet, don't wait until you use the last box of something. 
 - Clean up after yourself, participate in lab cleanups. 
 
 **Do good science**
