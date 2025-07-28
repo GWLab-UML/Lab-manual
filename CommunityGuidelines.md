@@ -12,7 +12,7 @@ If you feel you are being harassed or discriminated against, or notice someone e
 - AI for coding is acceptable, however the output of the LLM must always be verified and tested, and use of an LLM must be acknowledged in the code comments. You must be able to explain and stand behind any code you put out into the world. 
 - **Never** upload data into an LLM/online AI tool. The data is owned by the lab and doing so violates our intellectual property rights. 
 - **Never** upload an unpublished manuscript or grant proposal into an LLM/online AI tool. 
-- AI for any sort of scientific writing is not acceptable. The act of writing is the act of thinking, using AI to write is bypassing thinking. 
+- AI for any sort of scientific writing is not acceptable. The act of writing is the act of thinking; using AI to write is bypassing thinking. 
 - AI tools such as grammarly to help with wording/grammar is only acceptable in certain situations and after conversations with and approval from Sarah.
 
 **Animal and specimen treatment:** While we do not work on vertebrates and are not governed by IACUC, we have an ethical obligation to be respectful of the lives of the animals we work with. This means minimizing their suffering by processing samples quickly, either humanely sacrificing or returning unused animals to optimal conditions, not collecting more animals than we can process, and ensuring that samples collected can be used. Keeping track of data and samples is not only good scientific practice, it also shows respect to the animals that were sacrificed. 
