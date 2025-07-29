@@ -14,6 +14,7 @@ Any further explanation / links
 
 ## Questions for SGW?
 
+## SGW notes
 
 ## Periodic survey
 
