@@ -7,14 +7,14 @@
 - Help troubleshooting technical difficulties.
 - Support growing your network and introductions to collaborators. 
 
-**Communicate with Sarah**
--  Inform me of your research and course activities, particularly when (or ideally before) you are overwhelmed. 
-- Do not struggle in silence, ask for help when you need it! I may know how to fix problems with labwork, data analysis, writing, people, or the university, or at least point you in the right direction.
-- Always copy me on emails to university admin, they are more likely to respond to me (unfortunately).
-- Copy me on all written communication with our research collaborators. Let me know if something happens that may cause concern among our collaborators or people outside our research group. 
-- Let me know *before* you apply to any fellowships, conferences, workshops, or professional development opportunities. 
-- Send me drafts of any new datasheet to look over *before* you start collecting data.
-- Send me early drafts of papers, abstracts, posters, talks, and proposals. 
+**Communicate with your mentors**
+-  Inform Sarah/your mentor of your research and course activities, particularly when (or ideally before) you are overwhelmed. 
+- Do not struggle in silence, ask for help when you need it! Sarah may know how to fix problems with labwork, data analysis, writing, people, or the university, or at least point you in the right direction.
+- Always copy Sarah on emails to university admin, they are more likely to respond to me (unfortunately).
+- Copy Sarah on all written communication with our research collaborators. Let me know if something happens that may cause concern among our collaborators or people outside our research group. 
+- Let Sarah know *before* you apply to any fellowships, conferences, workshops, or professional development opportunities. 
+- Send Sarah drafts of any new datasheet to look over *before* you start collecting data.
+- Send Sarah early drafts of papers, abstracts, posters, talks, and proposals. 
 
 **Be a good lab member**
 - Respect people. Respect your labmates’ strengths and weaknesses. Respect their religion, culture, beliefs and sexual orientation. Respect differences in working style. 
@@ -30,8 +30,8 @@
 - Post in the lab slack workspace (gignoux-wolfsohnlab.slack.com). 
 - Help recruit new lab members. This may be meeting with a prospective, taking them out for meals and outings, and/or corresponding with them electronically. 
 - Report broken equipment promptly. Things break, we can get it fixed if we know about it. 
-- Add any vacations (>1 day) to lab google calendar at least a month in advance, so people know not to bother you. 
-- Add any long stretches of remote work to calendar
+- Tell your mentor(s)/team members about any vacations (>1 day) at least a month in advance and add to lab google calendar. 
+- Tell your mentor(s) and add any long stretches of remote work to calendar
 - Add supplies/equipment that need to be ordered to the google sheet, don't wait until you use the last box of something. 
 - Clean up after yourself, participate in lab cleanups. 
 

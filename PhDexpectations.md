@@ -57,8 +57,13 @@ Requirements for graduation:
 Proposal defense expectations:
 - open to members of the department, committee members must attend
 - 10 minute intro
-- description of 3 aims
+- description of 3-4 aims
 - about 10 min per aim, mix of existing results and future plans, should have chunks of aims 1 and 2 done, possibly parts of aim 3. 
 - project timeline
 
 Thesis defense expectations:
+- open to members of the department, public, committee members must attend
+- Introduction by advisor
+- ~10 minute intro setting up the (3 or 4) chapters as part of a whole thesis
+- ~7-10 minutes per chapter- intro, methods, conclusions, takeaways
+- ~5 minute conclusion discussing implications/next steps/tying three chapters together
