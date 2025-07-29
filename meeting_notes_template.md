@@ -23,3 +23,6 @@ This week, (check all that apply):
 - [ ] I used my time wisely
 - [ ] I struggled with a problem, but solved it
 - [ ] I ran into an issue I could not solve on my own.
+
+
+Adapted from [BonhamLab/TraineeTemplate](https://github.com/BonhamLab/TraineeTemplate/blob/main/PeriodicMeetings/YYYY-MM-DD_template.md)
