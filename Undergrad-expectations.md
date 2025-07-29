@@ -5,12 +5,13 @@ General expectations:
 	- Complete mentoring contracts each semester or summer
 	- Tell them if you do not understand what you are doing
 	- Ask for more mentorship or guidance if needed
+- Keep a lab notebook (preferably digital) and write in it every work day
 - Work as many hours as you have committed to for that semester/summer. If you find that those hours no longer work for you, be up front and proactive about communicating that to your primary mentor and/or Sarah
 - Show up to scheduled meetings
 - Attend and contribute to lab meetings as your schedule allows
 - Aim to lead one lab meeting a year (usually during the summer)
 - Apply for internal funding (Moloney scholarship, RHSA roads to research, Honors fellowship) or external funding (see sheet on google drive) at least once.
-- Present at the UML student symposium
+- Present at the UML student symposium and biology retreat
 
 Holding other jobs:
 We all have different goals, interests, career paths, and it is good to try different things at this point in your life. You are encouraged to apply to and do other opportunities that will advance your career or self in some way (e.g., REUs, internships in other fields and/or labs, study abroad programs, paid premed programs, etc. ). It is ok to simultaneously work in the lab and work somewhere else, however if your other job is purely financial talk to Sarah about increasing your hours in the lab or taking on other jobs that will both pay you and give you experience. 

@@ -7,12 +7,14 @@
 - Help troubleshooting technical difficulties.
 - Support growing your network and introductions to collaborators. 
 
-**Communicate with Sarah**
--  Inform me of your research and course activities, particularly when (or ideally before) you are overwhelmed. 
-- Do not struggle in silence, ask for help when you need it! I may know how to fix problems with labwork, data analysis, writing, people, or the university, or at least point you in the right direction.
-- Copy me on all written communication with our research collaborators. Let me know if something happens that may cause concern among our collaborators or people outside our research group. 
-- Let me know *before* you apply to any fellowships, conferences, workshops, or professional development opportunities. 
-- Send me early drafts of papers, abstracts, and proposals. 
+**Communicate with your mentors**
+-  Inform Sarah/your mentor of your research and course activities, particularly when (or ideally before) you are overwhelmed. 
+- Do not struggle in silence, ask for help when you need it! Sarah may know how to fix problems with labwork, data analysis, writing, people, or the university, or at least point you in the right direction.
+- Always copy Sarah on emails to university admin, they are more likely to respond to me (unfortunately).
+- Copy Sarah on all written communication with our research collaborators. Let me know if something happens that may cause concern among our collaborators or people outside our research group. 
+- Let Sarah know *before* you apply to any fellowships, conferences, workshops, or professional development opportunities. 
+- Send Sarah drafts of any new datasheet to look over *before* you start collecting data.
+- Send Sarah early drafts of papers, abstracts, posters, talks, and proposals. 
 
 **Be a good lab member**
 - Respect people. Respect your labmates’ strengths and weaknesses. Respect their religion, culture, beliefs and sexual orientation. Respect differences in working style. 
@@ -21,31 +23,33 @@
 - Lead lab meetings as appropriate with position and other demands
 - Help labmates when they need it whether it is a hands-on project or providing constructive feedback on an idea or draft (even if you are not on the project). They will do the same for you. Science is a collaborative endeavor, not a competition!
 - New students should consult with more experienced lab mates for advice and help with navigating their way through school/career as well as on lab policies. Senior students and postdocs should mentor newer students. 
-- Be respectful of labmates' time. Before asking questions or bringing forward a problem, please make the effort to research the topic. This way we can use our time together to discuss various ideas or options. 
+- Be respectful of labmates' time. Before asking questions or bringing forward a problem, make sure you have tried at least three different ways to research the topic. This way we can use our time together to discuss various ideas or options. 
 - Give constructive criticism respectfully. Always try to help someone make their product better, never attack them personally.  
-- Show up to your meetings, you do not need to be in at 9 am every day- just show up for your commitments, and work the hours you need to work to get stuff done. 
+- Show up to your meetings, you do not need to be in at 9 am every day- just show up for your commitments, and work the hours you need to work to get your assigned work done. 
 - Communicate sick days to anyone that you have scheduled meetings with. 
 - Post in the lab slack workspace (gignoux-wolfsohnlab.slack.com). 
 - Help recruit new lab members. This may be meeting with a prospective, taking them out for meals and outings, and/or corresponding with them electronically. 
 - Report broken equipment promptly. Things break, we can get it fixed if we know about it. 
-- Add any vacations (>1 day) to lab google calendar, so people know not to bother you
-- Add supplies that need to be ordered to the google doc, don't wait until you use the last box of something. 
+- Tell your mentor(s)/team members about any vacations (>1 day) at least a month in advance and add to lab google calendar. 
+- Tell your mentor(s) and add any long stretches of remote work to calendar
+- Add supplies/equipment that need to be ordered to the google sheet, don't wait until you use the last box of something. 
 - Clean up after yourself, participate in lab cleanups. 
 
 **Do good science**
+- Make sure you are always thinking critically and not relying on tools (like LLMs) to do the thinking for you. 
 - The perfect is the enemy of the good. Science isn't perfect, do it well and then move on. 
-- Correct your mistakes. We all make mistakes. Admit it as soon as you realize it happened. If you’re working in collaboration with others in or outside the lab, let them know ASAP. It’s ok to make mistakes, we will work to correct them and move on.
+- Correct your mistakes. We all make mistakes. Admit it as soon as you realize it happened. If you’re working in collaboration with others in or outside the lab, let them know ASAP. It’s ok to make mistakes, we will work to correct them, learn from them, and move on.
 - Be careful. Science is complicated and technically demanding. Plan ahead. Take your time. Don’t rush. Write out the protocol for yourself. Check if you have reagents. Double check your protocol or analysis with a colleague. If something looks funny, ask someone else to take a look. If you don’t trust a result, repeat it.
 - Work the hours you need to work to be most effective. Coming into the lab is great, but is not the same as getting your work done. 
 
 **Engage with the broader research community** 
 - Go to colloquium as much as possible. 
-- Try to attend lunch or other meeting with the speaker. Even if the topic seems tangential to you, you never know what you may learn. 
-- Attend other seminars on campus or in the greater boston area
+- Try to attend lunch or other meetings with the colloquium speaker. Even if the topic seems tangential to you, you never know what you may learn. 
+- Attend other seminars on campus or in the greater Boston area
 - Read. Stay up to date with the literature. Sign up for Google Scholar alerts, subscribe to e-tables of contents, or follow folks on social media who regularly post relevant science.
 
 **Take care of yourself**
-- Self-reflect. What is working? What is not? What variables are within your control? Whatstrengths do you bring to a situation? Where do you need support? Are there specific actions others could take that would help? 
+- Self-reflect. What is working? What is not? What variables are within your control? What strengths do you bring to a situation? Where do you need support? Are there specific actions others could take that would help? 
 - Find balance. You should work hard, but also have a life outside of the lab! I don’t expect you to be in the lab nights and weekends unless necessary for an experiment. 
 - Take vacations and time off for health, family reasons, religious observances, etc. You are expected to take holidays and 1-2 additional weeks off per year. 
 - Ask for help. If you’re struggling, tell someone (including Sarah).  Your health and happiness are important. It’s ok to go through rough patches in your lab and personal life (we all do), don’t be shy about asking for help. 
