@@ -1,4 +1,5 @@
 # Data Management Plan
+inspired by [Roberts Lab](https://robertslab.github.io/resources/Data-Management/)
 
 ## Types of data we generate:
 - individual organismal measurements
@@ -10,35 +11,37 @@
 - sequencing
 - images/videos
 
+**All data should be:**
+- described via metadata
+- backed up in secure manner
+- archived in an easily reproducible format
+
 ## General Plan
 All raw data should be uploaded to the corresponding GitHub repo. NO raw data should be stored on the GW Lab Google Drive. Images/videos are stored on the [GW Lab Drive](https://drive.google.com/drive/folders/1LzfnaX87sDi6W1-xSfR6NYGwAgE8RS-7).
 
 All project repos should contain a README with the following information *at minimum*:
-- brief description of project/experiment
+- brief description of project/experiment (information that makes the dataset easy to understand; where/why the data was collected)
 - table of contents/directory information
+	- brief descriptions of contents, if needed
 - links/locations to relevant external data (like images/videos on the Drive)
 - links to associated analysis repos
 - links to relevant protocols used to generate data (as needed/if applicable)
 
-All metadata CSVs should have an original order column for sorting. If column names are not easily understandable, a README should be added for more descriptions (e.g. listing measurement units).
+All metadata CSVs should have an original order column for sorting. If the data set/column names are not easily understandable, a README should be added with more information (e.g. listing measurement units or describe how the data was collected).
 
 All generated samples that are being stored in the lab should be tracked in a CSV (freezer, box number, shelf, cabinet, etc.) and updated as needed (e.g. sample is extracted or depleted).
 
-
 ## Sequencing
-
+All raw sequences should be stored in several locations for backup and storage. 
 #### NCBI Sequence Archive
 Once sequences are received, they should be uploaded to the [NCBI SRA](https://www.ncbi.nlm.nih.gov/sra) (see [protocol](https://github.com/GWLab-UML/Protocols/blob/main/Computational/SRA-tutorial.md) on how to do this via command line).
 #### Lab hard drive
-Upload raw sequences to the lab hard drive in GW Lab with FileZilla
+Upload raw sequences to the lab hard drive in GW Lab with [FileZilla](https://filezilla-project.org/)
 
-==protocol for FileZilla==
-
-#### tar.zip on unity??
-
-
+Unity has a good [protocol](https://docs.unity.rc.umass.edu/documentation/managing-files/filezilla/) for how to set up SFTP (SSH File Transfer Portal) in FileZilla. If a profile is already setup on the lab computer, you can create a shared scratch workspace and transfer the raw sequences from there. This process may take a while, depending on the number of samples and file sizes. MD5 checksums should be used to validate successful transfer. 
 #### master spreadsheet
 Update [SampleSeqInfo.csv](https://github.com/GWLab-UML/MegaMetaData/blob/main/SampleSeqInfo.csv) with metadata, sequencing information, file locations, and NCBI accession numbers.
+#### tar.zip on unity??
 
 
 ## Project Repo Management 
@@ -62,7 +65,6 @@ Other suggestions for *good practice*:
 - short description of the purpose of each code notebook
 - plot descriptions with code notebook used to generate it
 
-
 ## Unity Workspaces
 Best practices for utilizing Unity workspaces
 #### /scratch
@@ -71,13 +73,11 @@ temporary space (30 days) with lots of storage (see [documentation](https://docs
 	>but not meant for long-term storage of raw seqs!
 - QA/QC and trimming steps
 - alignment (if generating large files)
-
 #### /work
 high performance storage space with 3-day snapshot
 - storing bash scripts
 - submitting jobs
 - large environments
-
 #### /project
 storage space with 3-day snapshot - slower for running scripts
 - storing genomes
