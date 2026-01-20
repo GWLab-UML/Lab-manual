@@ -35,6 +35,7 @@ All generated samples that are being stored in the lab should be tracked in a CS
 All raw sequences should be stored in several locations for backup and storage. 
 #### NCBI Sequence Archive
 Once sequences are received, they should be uploaded to the [NCBI SRA](https://www.ncbi.nlm.nih.gov/sra) (see [protocol](https://github.com/GWLab-UML/Protocols/blob/main/Computational/SRA-tutorial.md) on how to do this via command line).
+	You can set the release date for up to 4 years in the future. Make note of this (you don't want your raw data to be released until your manuscript/pre-print is submitted).
 #### Lab hard drive
 Upload raw sequences to the lab hard drive in GW Lab with [FileZilla](https://filezilla-project.org/)
 
