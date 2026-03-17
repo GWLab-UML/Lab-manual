@@ -1,6 +1,12 @@
 # Data Management Plan
 inspired by [Roberts Lab](https://robertslab.github.io/resources/Data-Management/)
 
+## Contents:
+- [General Plan](https://github.com/GWLab-UML/Lab-manual/blob/main/Data-Management-Plan.md#general-plan)
+- [Sequencing](https://github.com/GWLab-UML/Lab-manual/blob/main/Data-Management-Plan.md#sequencing)
+- [Project Repo Management](https://github.com/GWLab-UML/Lab-manual/blob/main/Data-Management-Plan.md#project-repo-management)
+- [Unity Workspaces](https://github.com/GWLab-UML/Lab-manual/blob/main/Data-Management-Plan.md#unity-workspaces)
+
 ## Types of data we generate:
 - individual organismal measurements
 - nutrient concentrations
