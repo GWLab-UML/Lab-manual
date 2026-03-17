@@ -52,7 +52,7 @@ All raw sequences should be stored in several locations for backup and storage.
 
 ### Different types of sequencing
 - **Illumina sequencing** - raw fq.gz or fastq.gz files are uploaded/compressed as described below
-- **Sanger sequencing** - 
+- **Sanger sequencing** - raw fastq.gz, ab1.gz, and phd.1.gz files are uploaded/compressed as described below
 
 ### NCBI Sequence Archive
 Once sequences are received, they should be uploaded to the [NCBI SRA](https://www.ncbi.nlm.nih.gov/sra) (see [protocol](https://github.com/GWLab-UML/Protocols/blob/main/Computational/SRA-tutorial.md) on how to do this via command line).
