@@ -9,6 +9,7 @@ Check out our [community guidelines](https://github.com/GWLab-UML/Lab-manual/blo
 - [PhD students](https://github.com/GWLab-UML/Lab-manual/blob/main/Expectations-PhD.md)
 - [Postdocs](https://github.com/GWLab-UML/Lab-manual/blob/main/Expectations-Postdocs.md)
 
-## Mentoring
-- [Undergrad mentoring agreement template](https://github.com/GWLab-UML/Lab-manual/blob/main/UndergradMentoringAgreement-template.md): to be filled out and discussed between mentor and mentee as needed
-- [Meeting notes template](https://github.com/GWLab-UML/Lab-manual/blob/main/MeetingNotes-template.md): used for weekly meeting notes between mentor and mentee
+## Mentoring templates
+- [Undergrad mentoring agreement](https://github.com/GWLab-UML/Lab-manual/blob/main/UndergradMentoringAgreement-template.md): to be filled out and discussed between mentor and mentee as needed
+- [Meeting notes](https://github.com/GWLab-UML/Lab-manual/blob/main/MeetingNotes-template.md): used for weekly meeting notes between mentor and mentee
+- [Individual Development Plans](https://github.com/GWLab-UML/Lab-manual/blob/main/IDP-template.md): to be filled out and discussed between mentor and mentee annually
