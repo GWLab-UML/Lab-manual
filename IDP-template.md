@@ -112,5 +112,4 @@ I am aware of and am following the Department degree progress expectations throu
 #### Long Term Plans:
 
 ### Mentor/Advisor Comments:
-is GE chapter 3 not chapter 2? You’re right ah - fixed
 
