@@ -13,3 +13,4 @@ Check out our [community guidelines](https://github.com/GWLab-UML/Lab-manual/blo
 - [Undergrad mentoring agreement](https://github.com/GWLab-UML/Lab-manual/blob/main/UndergradMentoringAgreement-template.md): to be filled out and discussed between mentor and mentee as needed
 - [Meeting notes](https://github.com/GWLab-UML/Lab-manual/blob/main/MeetingNotes-template.md): used for weekly meeting notes between mentor and mentee
 - [Individual Development Plans](https://github.com/GWLab-UML/Lab-manual/blob/main/IDP-template.md): to be filled out and discussed between mentor and mentee annually
+- [Lab Notebook](https://github.com/GWLab-UML/LabNotebook-Template): example repo for setting up a lab notebook
