@@ -1,10 +1,12 @@
 Undergraduates are crucial members of the lab community, but being an undergraduate researcher can take a different shape for different people and can (should) shift over time. 
 
 General expectations: 
+- Adhere to the community guidelines outlined in the lab manual
 - Check in with your primary mentor regularly
 	- Complete mentoring contracts each semester or summer
 	- Tell them if you do not understand what you are doing
-	- Ask for more mentorship or guidance if needed
+	- Ask for more mentorship or guidance if needed (be appreciative!)
+- Prioritize getting work tasks done over optional professional development
 - Keep a lab notebook (preferably digital) and write in it every work day
 - Work as many hours as you have committed to for that semester/summer. If you find that those hours no longer work for you, be up front and proactive about communicating that to your primary mentor and/or Sarah
 - Show up to scheduled meetings
