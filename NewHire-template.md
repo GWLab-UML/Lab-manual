@@ -1,7 +1,6 @@
 **Gignoux-Wolfsohn lab intake form** 
 
 Mentor’s cell number is [ ], put this in your phone for emergencies/travel/etc
-Sarah’s cell number is (610)724-3602
   
 Name: 
 
