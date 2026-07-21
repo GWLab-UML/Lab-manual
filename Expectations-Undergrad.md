@@ -1,6 +1,6 @@
 Undergraduates are crucial members of the lab community, but being an undergraduate researcher can take a different shape for different people and can (should) shift over time. 
 
-I. Expectations: 
+## I. Expectations: 
 - Adhere to the community guidelines outlined in the lab manual
 - Check in with your primary mentor regularly
 	- Complete mentoring contracts each semester or summer
@@ -24,54 +24,53 @@ I. Expectations:
 	- Read scientific papers related to your work
 - Holding other jobs: We all have different goals, interests, career paths, and it is good to try different things at this point in your life. You are encouraged to apply to and do other opportunities that will advance your career or self in some way (e.g., REUs, internships in other fields and/or labs, study abroad programs, paid premed programs, etc. ). It is ok to simultaneously work in the lab and work somewhere else, however if your other job is purely financial talk to Sarah about increasing your hours in the lab or taking on other jobs that will both pay you and give you experience. 
 
-II. Funding: 
-Applying for funding is beneficial for multiple reasons including 1) practicing persuasive writing about the value of your research and/or you as a researcher 2) adding items to your resume and 3) keeping the lab funded. All undergraduates are expected to submit at least one application for funding over the course of their time in the lab. What you apply to and when will depend on who you are, your project, and your year. Talk to your primary mentor and/or sarah about possibilities and strategy, but some general guidelines are below: 
+## II. Funding: 
+Applying for funding is beneficial for multiple reasons including 1) practicing persuasive writing about the value of your research and/or you as a researcher 2) adding items to your resume and 3) keeping the lab funded. All undergraduates are expected to submit at least one application for funding over the course of their time in the lab. What you apply to and when will depend on who you are, your project, and your year. Talk to your primary mentor and/or Sarah about possibilities and strategy, but some general guidelines are below: 
 
-Most students working over the summer should apply to the KCS Science Scholars program (link). You can receive it multiple times so you can apply in freshman, sophomore, and junior year spring semesters.
+Most students working over the summer should apply to the [KCS Science Scholars program](https://www.uml.edu/sciences/experiential-learning/science-scholars.aspx). You can receive it multiple times so you can apply in freshman, sophomore, and junior year spring semesters.
 
-The Moloney scholarship (link) can only be awarded one time so it's a good idea to save this until later in your time at UML. Over the summer it pays $4,000 and during the school year $2,500. It can also be used for an unpaid internship not at UML, so consider reaching out to folks at other institutions if this is of interest. 
+The [Moloney scholarship](https://www.uml.edu/career-work-experiential-learning/moloney-scholar.aspx) can only be awarded one time so it's a good idea to save this until later in your time at UML. Over the summer it pays $4,000 and during the school year $2,500. It can also be used for an unpaid internship not at UML, so consider reaching out to folks at other institutions if this is of interest. 
 
 Other internal funding opportunities are specific to certain groups. 
 
-The Honors fellowship (link) is limited to students in the honors college and provides $1,500 per semester (up to 2 semesters) in tuition reimbursement that can be used over the school year. It is a good idea to do this in your junior year, but it is possible to do in senior year. Applications are rolling but usually open in the summer. 
+The [Honors fellowship](https://www.uml.edu/honors/program/honors-fellowships.aspx) is limited to students in the honors college and provides $1,500 per semester (up to 2 semesters) in tuition reimbursement that can be used over the school year. It is a good idea to do this in your junior year, but it is possible to do in senior year. Applications are rolling but usually open in the summer. 
 
-The RHSA roads to research program (link) is limited to first generation college students enrolled in RHSA. It provides $2500 tuition reimbursement during the school year. 
+The [RHSA roads to research program](https://www.uml.edu/academics/provost-office/student-success/scholars-academy/signature-programs/roads-research.aspx) is limited to first generation college students enrolled in RHSA. It provides $2500 tuition reimbursement during the school year. 
 
-We also have information about external funding sources here: https://docs.google.com/spreadsheets/d/1f87eAw-XQMPVxv9uv-36O8IQPHgBRq3lys5DjVbSQ98/edit?gid=0#gid=0
+We also have information about external funding sources [here](https://docs.google.com/spreadsheets/d/1f87eAw-XQMPVxv9uv-36O8IQPHgBRq3lys5DjVbSQ98/edit?gid=0#gid=0).
 
-III. Research for credit
-Students in any year can take research for up to four credits. These are free electives so do not count towards your biology major. In general, we only use this option if someone cannot get paid (eg for visa reasons) or needs a few credits to be full time. 
+### III. Research for credit:
+Students in any year can take research for up to four credits. These are free electives so do not count towards your biology major. In general, we only use this option if someone cannot get paid (e.g. for visa reasons) or needs a few credits to be full time. 
 
 Students in their last two semesters can take Senior Research (either honors or not). If you would like to take Senior Research, talk to Sarah about if this is a good fit.
 
 
-IV. Honors Thesis
-If you are in the honors college, you can ask Sarah about the possibility of doing an honors thesis in the lab by the beginning of your second semester Junior year (at the latest). You must have either already completed a significant amount of work on a project prior to the summer before your senior year or commit to working on a project over the course of that summer. You should bring a clear idea of what your thesis will cover, this usually will be a project you have started already or a related new direction that Sarah can approve. This is in addition to completing work during your senior year (see below). Deadlines are available here: https://www.uml.edu/honors/program/project-thesis/forms.aspx and will be different depending on which semester you plan on graduating.
+### IV. Honors Thesis
+If you are in the honors college, you can ask Sarah about the possibility of doing an honors thesis in the lab by the beginning of your second semester Junior year (at the latest). You must have either already completed a significant amount of work on a project prior to the summer before your senior year or commit to working on a project over the course of that summer. You should bring a clear idea of what your thesis will cover, this usually will be a project you have started already or a related new direction that Sarah can approve. This is in addition to completing work during your senior year (see below). Deadlines are available [here](https://www.uml.edu/honors/program/project-thesis/forms.aspx) and will be different depending on which semester you plan on graduating.
 
-Timeline:
-Second semester Junior year: 
-confirm eligibility with Sarah
-Ask Sarah for a permission number for BIOL 4110L-308 (for Fall semester) and register. This class counts as an upper level lecture plus lab
+#### Timeline:
+**Second semester Junior year:** 
+- confirm eligibility with Sarah
+- Ask Sarah for a permission number for BIOL 4110L-308 (for Fall semester) and register. This class counts as an upper level lecture plus lab
 
-Before the start of your first semester senior year:
-Decide who you want your committee member to be and ask them if they are willing (can either be a grad student/postdoc in the lab or another biology faculty member) submit mentor form: https://uml.infoready4.com/#freeformCompetitionDetail/1992114
-Submit form to honors college expressing intent to conduct a thesis: https://uml.infoready4.com/#freeformCompetitionDetail/1991715
+**Before the start of your first semester senior year:**
+- Decide who you want your committee member to be and ask them if they are willing (can either be a grad student/postdoc in the lab or another biology faculty member) submit [mentor form]( https://uml.infoready4.com/#freeformCompetitionDetail/1992114)
+- Submit [form to honors college](https://uml.infoready4.com/#freeformCompetitionDetail/1991715) expressing intent to conduct a thesis
 
-First semester senior year: 
-Work 12 hours per week to earn credit towards BIOL 4110L-308. Any additional hours will be paid. 
-Write proposal and submit to Sarah and committee member for feedback by October 15 (or two weeks before deadline for proposal submission to honors college)
-Submit proposal to honors college by October 31 (if fall semester). https://uml.infoready4.com/#freeformCompetitionDetail/1995383
-Schedule update meetings with your committee
-Ask Sarah for a permission number for BIOL 4120L-203 (for next semester) and register
-Register for 0 credit hour honors class (for next semester) HONR 4910 Honors Project Placeholder
+**First semester senior year:** 
+- Work 12 hours per week to earn credit towards BIOL 4110L-308. Any additional hours will be paid. 
+- Write proposal and submit to Sarah and committee member for feedback by October 15 (or two weeks before deadline for proposal submission to honors college)
+- [Submit proposal to honors college](https://uml.infoready4.com/#freeformCompetitionDetail/1995383) by October 31 (if fall semester). 
+- Schedule update meetings with your committee
+- Ask Sarah for a permission number for BIOL 4120L-203 (for next semester) and register
+- Register for 0 credit hour honors class (for next semester) HONR 4910 Honors Project Placeholder
 
-Second semester senior year: 
-Work 12 hours per week to earn credit towards BIOL 4120L-203. Any additional hours will be paid. 
-Work on thesis presentation and thesis document
-Schedule thesis presentation
-Schedule and present presentation to lab during lab meeting
-Submit thesis document to sarah and committee at least one week before presentation
-Give presentation (before reading day)
-Fill out form indicating completion of thesis requirements and submit thesis document 
-https://uml.infoready4.com/#freeformCompetitionDetail/1996906
+**Second semester senior year:** 
+- Work 12 hours per week to earn credit towards BIOL 4120L-203. Any additional hours will be paid. 
+- Work on thesis presentation and thesis document
+- Schedule thesis presentation
+- Schedule and present presentation to lab during lab meeting
+- Submit thesis document to sarah and committee at least one week before presentation
+- Give presentation (before reading day)
+- Fill out [form](https://uml.infoready4.com/#freeformCompetitionDetail/1996906) indicating completion of thesis requirements and submit thesis document 
 
