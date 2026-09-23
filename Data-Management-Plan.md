@@ -98,19 +98,21 @@ Other suggestions for *good practice*:
 ## Unity Workspaces
 Best practices for utilizing Unity workspaces
 #### `/scratch`
-temporary space (30 days) with lots of storage (see [documentation](https://docs.unity.rc.umass.edu/documentation/managing-files/hpc-workspace/))
+temporary space (30 days with unlimited extensions) with lots of storage (see [documentation](https://docs.unity.rc.umass.edu/documentation/managing-files/hpc-workspace/))
 - downloading raw sequences
 	>but not meant for long-term storage of raw seqs!
-- QA/QC and trimming steps
-- alignment (if generating large files)
+- storing intermediate sequence files (QA/QC, trimming, alignment, etc.)
+- large databases for temporary use
+- creating shared workspace for collabs
 #### `/work`
 high performance storage space with 3-day snapshot
 - storing bash scripts
 - submitting jobs
-- large environments
+- storing conda environments
 #### `/project`
 storage space with 3-day snapshot - slower for running scripts
 - storing compressed raw sequences
+	- or compressed intermediate files from a current analysis that take over ~12 hours to produce (these should be removed after publishing)
 - storing genomes
-- storing outputs and git backups (repos)
+- storing outputs and git backups (GitHub repos)
 	- processing scripts have to be run out of work, but should be copied into project repo
